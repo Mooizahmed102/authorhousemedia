@@ -1,0 +1,10 @@
+<svg id="Book-Proposals" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <path id="Path_23285" data-name="Path 23285" d="M56.25,12.25H45V1h2.5V9.75h8.75Z" transform="translate(11.25 0.25)" fill="#48bac4" fill-rule="evenodd"/>
+  <path id="Path_23286" data-name="Path 23286" d="M9,0V42.5h2.5V2.5H54.732L64,11.767V42.5h2.5V10.733L55.768,0ZM9,57.5V80H66.5V62.5H64v15H11.5v-20ZM10.25,55h60V52.5h-60Zm0-7.5h60V45h-60Z" transform="translate(2.25)" fill="#48bac4" fill-rule="evenodd"/>
+  <path id="Path_23287" data-name="Path 23287" d="M57,46h8.75V36H57Zm2.5-2.5h3.75v-5H59.5Z" transform="translate(14.25 9)" fill="#48bac4" fill-rule="evenodd"/>
+  <g id="Group_10176" data-name="Group 10176" transform="translate(0 45)">
+    <path id="Path_23288" data-name="Path 23288" d="M7.846,7.5h3.4v-5h-3.4L3.68,5ZM12.5,10h-5a1.243,1.243,0,0,1-.644-.179L.606,6.071a1.25,1.25,0,0,1,0-2.142L6.856.179A1.243,1.243,0,0,1,7.5,0h5a1.25,1.25,0,0,1,1.25,1.25v7.5A1.25,1.25,0,0,1,12.5,10Z" transform="translate(0 0)" fill="#48bac4" fill-rule="evenodd"/>
+    <path id="Path_23289" data-name="Path 23289" d="M7.846,7.5h3.4v-5h-3.4L3.68,5ZM12.5,10h-5a1.243,1.243,0,0,1-.644-.179L.606,6.071a1.25,1.25,0,0,1,0-2.142L6.856.179A1.243,1.243,0,0,1,7.5,0h5a1.25,1.25,0,0,1,1.25,1.25v7.5A1.25,1.25,0,0,1,12.5,10Z" transform="translate(0 0)" fill="#48bac4" fill-rule="evenodd"/>
+  </g>
+  <path id="Path_23290" data-name="Path 23290" d="M22.5,51.75H25v-7.5H22.5ZM65,58H45V55.5H62.5V51.75H65ZM40,65.5a4.454,4.454,0,0,1-3.385-1.616C36,63.271,35.7,63,35,63s-1,.271-1.615.884a4.352,4.352,0,0,1-6.769,0C26,63.271,25.7,63,25,63s-1,.271-1.616.884a4.35,4.35,0,0,1-6.768,0C16,63.271,15.7,63,15,63V60.5a4.458,4.458,0,0,1,3.384,1.616C19,62.729,19.3,63,20,63s1-.271,1.616-.884a4.35,4.35,0,0,1,6.768,0C29,62.729,29.3,63,30,63s1-.271,1.615-.884a4.353,4.353,0,0,1,6.77,0C39,62.729,39.3,63,40,63Zm-25-55h2.5V8H15Zm5,0h2.5V8H20Zm5,0h2.5V8H25ZM15,18H57.5V15.5H15Zm0,5H57.5V20.5H15Zm0,5H57.5V25.5H15Zm0,5H57.5V30.5H15Zm0,5H35V35.5H15Zm0,32.5H40V68H15Z" transform="translate(3.75 2)" fill="#48bac4" fill-rule="evenodd"/>
+</svg>
